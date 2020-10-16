@@ -7,5 +7,9 @@ void main() {
 			cout << i * j << endl;
 		}
 	}
+
+            cout << "포크좀 하겠습니다." << endl;
 }
+
+
 
